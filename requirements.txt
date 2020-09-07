@@ -1,0 +1,4 @@
+numpy
+bqplot
+pandas
+voila
